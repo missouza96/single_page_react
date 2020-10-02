@@ -1,0 +1,104 @@
+.MuiGrid-root.MuiGrid-container {
+  background-color: white;
+  pointer-events: none;
+  padding: 20% 0 0 0;
+}
+
+.communities__header {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  padding: 40px 50px 50px;
+}
+
+.communities {
+  padding: 0 60px 30px;
+  width: 100%;
+}
+
+.espaco{
+  height: 50px;
+}
+
+.gridImg{
+  background-color: white;
+  width: 50%;
+  padding: 0px 0 30px 0;
+}
+
+.hero__title1 {
+  font-size: 40px;
+  font-family: Impact, fantasy;
+  letter-spacing: 1px;
+}
+
+.hero__title2 {
+  font-size: 25px;
+  font-family: sans-serif;
+  letter-spacing: 1px;
+}
+
+.hero {
+  padding: 0 60px 0px;
+  background: rgb(255, 255, 255);
+  width: 100%;
+  color: #000;
+  
+}
+
+.communities__item {
+  align-items: flex-start;
+  background-color: rgba(205, 202, 238, 0.38);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 170px;
+  padding: 16px;
+}
+
+.communities__item-wrapper {
+  padding: 0 10px 20px;
+  width: 100%;
+}
+
+.communities__item-title {
+  font-family: monospace;
+  font-size: 20px;
+  color: #595959;
+  padding: 0 40px 20px;
+  width: 100%;
+}
+
+.communities__button {
+  margin-top: auto;
+}
+
+.button--yellow {
+  background-color: #ade79c;
+  color: #000;
+}
+
+.communities__item-description {
+  color: #595959;
+  font-family: unset;
+  margin: 0;
+  width: 100%;
+  padding-bottom: 13px;
+}
+
+.button {
+  padding: 10px 10px;
+  align-self: center;
+}
+
+.MuiPaper-root {
+  height: 255px;
+}
+
+.communities__inner {
+  margin: 0 auto;
+  max-width: 1110px;
+  padding: 0 40px 10px;
+}
